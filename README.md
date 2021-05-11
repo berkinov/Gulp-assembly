@@ -3,5 +3,6 @@
 *then in the terminal we type the following:*
 <br>
 1- npm init
+<br>
 2- gulp
 and done!
